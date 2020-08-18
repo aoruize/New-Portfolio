@@ -28,8 +28,6 @@ const Hero = () => {
         <div>
           <h1>Matthew Ao</h1>
           <h4>UofT ECE & web developer.</h4>
-          <br />
-          <p>Hello buddy!</p>
           <Link to='/contact' className='btn'>
             Contact me
           </Link>

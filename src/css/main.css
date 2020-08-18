@@ -420,7 +420,7 @@ Hero
   margin-top: -5rem;
   padding-top: 5rem;
   height: 100vh;
-  background: var(--clr-primary-10);
+  /*background: var(--clr-primary-10);*/
   position: relative;
 }
 
@@ -435,7 +435,7 @@ Hero
   margin-left: 0;
 }
 .hero-info {
-  background: var(--clr-primary-10);
+  background: transparent;
 }
 .hero-img {
   display: none;
