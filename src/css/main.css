@@ -14,26 +14,26 @@ Variables
 :root {
   /* dark shades of primary color*/
   /* --clr-primary-1: hsl(43, 86%, 17%); */
-  --clr-primary-1: hsl(180, 3%, 31%);
-  --clr-primary-2: hsl(187, 4%, 46%);
-  --clr-primary-3: hsl(187, 3%, 49%);
-  --clr-primary-4: hsl(185, 5%, 57%);
-  --clr-primary-5: #848888;
+  --clr-primary-1: hsl(182200, 3%, 31%);
+  --clr-primary-2: hsl(220, 4%, 46%);
+  --clr-primary-3: hsl(220, 3%, 49%);
+  --clr-primary-4: hsl(220, 3%, 59%);
+  --clr-primary-5: hsl(220, 2%, 53%);
   /* lighter shades of primary color */
-  --clr-primary-6: hsl(187, 7%, 77%);
-  --clr-primary-7: hsl(186, 14%, 85%);
-  --clr-primary-8: hsl(190, 17%, 93%);
-  --clr-primary-9: hsl(187, 47%, 96%);
-  --clr-primary-10: hsl(0, 0%, 98%);
+  --clr-primary-6: hsl(220, 7%, 77%);
+  --clr-primary-7: hsl(220, 14%, 85%);
+  --clr-primary-8: hsl(220, 17%, 93%);
+  --clr-primary-9: hsl(220, 47%, 96%);
+  --clr-primary-10: hsl(220, 0%, 98%);
   /* darkest grey - used for headings */
-  --clr-grey-1: #0F141E;
-  --clr-grey-3: hsl(210, 1%, 40%);
-  --clr-grey-4: hsl(210, 3%, 45%);
+  --clr-grey-1: hsl(220, 33%, 9%);
+  --clr-grey-3: hsl(220, 1%, 40%);
+  --clr-grey-4: hsl(220, 3%, 45%);
   /* grey used for paragraphs */
-  --clr-grey-5: #878A8F;
-  --clr-grey-8: hsl(210, 31%, 80%);
-  --clr-grey-9: hsl(212, 33%, 89%);
-  --clr-grey-10: hsl(210, 36%, 96%);
+  --clr-grey-5: hsl(220, 3%, 55%);
+  --clr-grey-8: hsl(220, 16%, 83%);
+  --clr-grey-9: hsl(220, 16%, 91%);
+  --clr-grey-10: hsl(220, 36%, 96%);
   --clr-green-dark: hsl(125, 67%, 35%);
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
@@ -239,7 +239,6 @@ Navbar
   align-items: center;
 }
 .nav-header img {
-  margin-bottom: 0.375rem;
   width: 3rem;
 }
 .toggle-btn {
