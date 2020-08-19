@@ -14,26 +14,26 @@ Variables
 :root {
   /* dark shades of primary color*/
   /* --clr-primary-1: hsl(43, 86%, 17%); */
-  --clr-primary-1: hsl(182200, 3%, 31%);
-  --clr-primary-2: hsl(220, 4%, 46%);
-  --clr-primary-3: hsl(220, 3%, 49%);
-  --clr-primary-4: hsl(220, 3%, 59%);
-  --clr-primary-5: hsl(220, 2%, 53%);
+  --clr-primary-1: hsl(220, 13%, 30%);
+  --clr-primary-2: hsl(220, 13%, 42%);
+  --clr-primary-3: hsl(220, 13%, 47%);
+  --clr-primary-4: hsl(220, 13%, 54%);
+  --clr-primary-5: hsl(220, 13%, 60%);
   /* lighter shades of primary color */
-  --clr-primary-6: hsl(220, 7%, 77%);
-  --clr-primary-7: hsl(220, 14%, 85%);
-  --clr-primary-8: hsl(220, 17%, 93%);
-  --clr-primary-9: hsl(220, 47%, 96%);
-  --clr-primary-10: hsl(220, 0%, 98%);
+  --clr-primary-6: hsl(220, 13%, 77%);
+  --clr-primary-7: hsl(220, 13%, 85%);
+  --clr-primary-8: hsl(220, 13%, 93%);
+  --clr-primary-9: hsl(220, 13%, 96%);
+  --clr-primary-10: hsl(220, 13%, 98%);
   /* darkest grey - used for headings */
   --clr-grey-1: hsl(220, 33%, 9%);
-  --clr-grey-3: hsl(220, 1%, 40%);
+  --clr-grey-3: hsl(220, 3%, 40%);
   --clr-grey-4: hsl(220, 3%, 45%);
   /* grey used for paragraphs */
   --clr-grey-5: hsl(220, 3%, 55%);
-  --clr-grey-8: hsl(220, 16%, 83%);
-  --clr-grey-9: hsl(220, 16%, 91%);
-  --clr-grey-10: #EDEFF1;
+  --clr-grey-8: hsl(220, 3%, 83%);
+  --clr-grey-9: hsl(220, 3%, 91%);
+  --clr-grey-10: hsl(220, 3%, 94%);
   --clr-green-dark: hsl(125, 67%, 35%);
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
