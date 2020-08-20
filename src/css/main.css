@@ -68,6 +68,30 @@ Global Styles
   color: white;
   background: #86898F;
 }
+/* Let's get this party started */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px var(--light-shadow); 
+  -webkit-box-shadow: inset 0 0 6px var(--light-shadow); 
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: var(--clr-grey-8); 
+  box-shadow: inset 0 0 6px var(--light-shadow); 
+  -webkit-box-shadow: inset 0 0 6px var(--light-shadow); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+background: var(--clr-grey-10); 
+}
 body {
   font-family: var(--ff-secondary);
   background: var(--clr-white);
