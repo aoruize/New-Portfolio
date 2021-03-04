@@ -1,2 +1,2 @@
 # Gatsby Portfolio
- Matthew Ao's new website portfolio. Built in Gatsby, React and Strapi.
+ Matthew Ao's website portfolio. Built in Gatsby, React and Strapi.
